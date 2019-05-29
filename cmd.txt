@@ -1,0 +1,23 @@
+/ccmd("fire script event blendshapetest data\\Graphics\\Characters\\Player\\Character_XYL_BlendshapeTest\\blendshape_001.json")
+
+/ccmd("fire script event blendshapetest data\\blendshape_001.json")
+
+/ccmd("move to 82514 1 69176")
+
+-----Â¥ÌÝÉÏ
+/ccmd("move to 81810 126 69655")
+
+--²Ý´Ô
+/ccmd("move to 80008 3 70726")
+
+/ccmd("script output 8")
+
+/ccmd("print all character info")
+
+{87351,1,67967}
+{87096,1,67878}
+{87196,1,67778}
+{87296,1,67878}
+
+{120336, 1, 118183}
+
